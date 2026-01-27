@@ -1,0 +1,7 @@
+D:\Systems Programming\tutorial_3\tutorial_3\bin\Debug\tutorial_3.exe.config
+D:\Systems Programming\tutorial_3\tutorial_3\bin\Debug\tutorial_3.exe
+D:\Systems Programming\tutorial_3\tutorial_3\bin\Debug\tutorial_3.pdb
+D:\Systems Programming\tutorial_3\tutorial_3\obj\Debug\tutorial_3.csproj.AssemblyReference.cache
+D:\Systems Programming\tutorial_3\tutorial_3\obj\Debug\tutorial_3.csproj.CoreCompileInputs.cache
+D:\Systems Programming\tutorial_3\tutorial_3\obj\Debug\tutorial_3.exe
+D:\Systems Programming\tutorial_3\tutorial_3\obj\Debug\tutorial_3.pdb
